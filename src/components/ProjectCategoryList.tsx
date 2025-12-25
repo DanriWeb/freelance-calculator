@@ -1,4 +1,4 @@
-import "./CategoryList.css";
+import "./ProjectCategoryList.css";
 import ProjectCategoryCard from "./ProjectCategoryCard";
 import { projectCategories } from "../data/project-categories";
 

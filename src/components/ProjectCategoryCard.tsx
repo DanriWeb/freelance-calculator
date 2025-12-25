@@ -1,4 +1,4 @@
-import "./CategoryCard.css";
+import "./ProjectCategoryCard.css";
 import type { ProjectCategory } from "../types/project-category";
 
 type ProjectCategoryCardProps = Omit<ProjectCategory, "id">;
