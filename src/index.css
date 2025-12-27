@@ -60,6 +60,11 @@ body {
   background: var(--app-background-gradient);
 }
 
+#root {
+  display: flex;
+  justify-content: center;
+}
+
 img,
 svg {
   user-select: none;

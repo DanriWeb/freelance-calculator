@@ -5,6 +5,7 @@
   align-items: center;
 
   width: 100%;
+  min-width: 320px;
   padding: 0 20px;
   padding-bottom: 100px;
 }
@@ -20,11 +21,6 @@
 }
 
 .app__main-title-container {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-
   width: 100%;
 }
 
@@ -48,7 +44,6 @@
 
   .app__main-title {
     font-size: 25px;
-    gap: 40px;
   }
 }
 
